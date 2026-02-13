@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanskriti-seaborn.github.io/kan-BSplineVisualizer/sitemap.xml
